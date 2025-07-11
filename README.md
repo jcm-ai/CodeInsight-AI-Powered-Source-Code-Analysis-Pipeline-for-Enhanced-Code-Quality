@@ -30,8 +30,10 @@ And then run the following command to start the project:
 ```bash
 python app.py
 ```
-Now, we can access the application locally at: `http://localhost:8080`
-
+Now, we can access the application locally at:
+```Python
+http://localhost:8080
+```
 ### Technologies Used:
 - Python : A high-level programming language
 - Langchain : A framework for building applications with LLMs
